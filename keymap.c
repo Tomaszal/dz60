@@ -7,7 +7,7 @@
 // Define layers
 #define _BS 00 // Base
 #define _FN 01 // Function
-#define _MC 64 // Macro
+#define _MC 31 // Macro
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
